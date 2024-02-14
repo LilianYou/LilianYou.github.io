@@ -42,7 +42,7 @@ Publications
 
 * Chrastil, E. R., <b>Cheng, Y.</b> (2024).  Central Coordination and Integration of Diverse Information to Form a Single Map.  In Collective Spatial Cognition.  Routledge. 
 
-* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R. (2023). (Don’t) look where you’re going: Evidence for a travel direction signal in humans that is independent of head direction. Journal of Experimental Psychology: General. [[preprint](https://www.biorxiv.org/content/10.1101/2022.08.22.504860v1)] (in press)
+* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R. (2024). (Don’t) look where you’re going: Evidence for a travel direction signal in humans that is independent of head direction. Journal of Experimental Psychology: General. [[preprint](https://www.biorxiv.org/content/10.1101/2022.08.22.504860v1)] (in press)
 
 * <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Chrastil, E.R.. Navigational systems in the human brain dynamically code for past, present, and future trajectories. [[preprint](https://www.biorxiv.org/content/10.1101/2023.08.22.554387v1)]
 
