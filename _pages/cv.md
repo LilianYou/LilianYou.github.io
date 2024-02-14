@@ -37,6 +37,9 @@ Work experience
 
 Publications
 ======
+
+* <b>Cheng, Y. </b>., Ho, E., Weintraub, S., Rentz, D., Gershon, R., Das, S., Dodge, H. (2024). Predicting Brain Amyloid Status Using the National Institute of Health Toolbox (NIHTB) for Assessment of Neurological and Behavioral Function. The Journal of Prevention of Alzheimer's Disease. [[abstract](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.082364)] (in press)
+
 * Chrastil, E. R., <b>Cheng, Y.</b> (2024).  Central Coordination and Integration of Diverse Information to Form a Single Map.  In Collective Spatial Cognition.  Routledge. 
 
 * <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R. (2023). (Don’t) look where you’re going: Evidence for a travel direction signal in humans that is independent of head direction. Journal of Experimental Psychology: General. [[preprint](https://www.biorxiv.org/content/10.1101/2022.08.22.504860v1)] (in press)
