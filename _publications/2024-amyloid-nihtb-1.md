@@ -1,7 +1,7 @@
 ---
 title: "Predicting Brain Amyloid Status Using the National Institute of Health Toolbox (NIHTB) for Assessment of Neurological and Behavioral Function"
 collection: publications
-permalink: /publication/2024-amyloid-nihtb
+permalink: /publication/2024-amyloid-nihtb-1
 excerpt: 'SynthSeg+ is an image segmentation tool for automated analysis of highly heterogeneous brain MRI clinical scans. Our method relies on a new strategy to train deep neural networks, such that it can robustly analyze scans of any contrast and resolution without retraining, which was previously impossible. Moreover, SynthSeg+ enables scalable quality control of the produced results by automatic detection of faulty segmentations. Our tool is publicly available with FreeSurfer and can be used “out-of-the-box”, which facilitates its use and enhances reproducibility. By unlocking the analysis of heterogeneous clinical data, SynthSeg+ has the potential to transform neuroimaging studies, given the considerable abundance of clinical scans compared to the size of datasets used in research.'
 date: 2024-2-14
 venue: 'The Journal of Prevention of Alzheimer's Disease'
