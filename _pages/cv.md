@@ -21,9 +21,11 @@ redirect_from:
 - Postdoctoral Research Fellow, McLean Hospital & Harvard Medical School, 2022 – present
 - Visiting Scholar, Max Planck Institute for Software Systems (MPI-SWS), 2021
 
-## Selected Awards
+## Selected Awards & Grants
 
-- Neuropsychiatric Syndromes PIA Best Postdoctoral Poster Award, Alzheimer's Association International Conference (AAIC), 2025
 - Presidential Award ($10,000), McLean Hospital, 2025–2026
-- Audience Choice Award, University of California, Irvine Associated Graduate Students (AGS) Symposium, 2021
+- Neuropsychiatric Syndromes PIA Best Postdoctoral Poster Award, Alzheimer's Association International Conference (AAIC), 2025
+- Google Cloud Research Credit Grant ($1,000), Google LLC, 2023–2024
+- Research Education Component (REC) Scholar ($5,000), Massachusetts Alzheimer's Disease Research Center (MADRC), 2022
 - Team Science Honorable Mention, Massachusetts General Hospital Clinical Research Day, 2022
+- Audience Choice Award, University of California, Irvine Associated Graduate Students (AGS) Symposium, 2021
