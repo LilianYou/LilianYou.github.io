@@ -28,4 +28,6 @@ redirect_from:
 - Google Cloud Research Credit Grant ($1,000), Google LLC, 2023–2024
 - Research Education Component (REC) Scholar ($5,000), Massachusetts Alzheimer's Disease Research Center (MADRC), 2022
 - Team Science Honorable Mention, Massachusetts General Hospital Clinical Research Day, 2022
-- Audience Choice Award, University of California, Irvine Associated Graduate Students (AGS) Symposium, 2021
+- Roger W. Russell Scholar's Award ($1,000), Center for the Neurobiology of Learning and Memory, UCI, 2021
+- Trainee Professional Development Award (TPDA), Society for Neuroscience, 2020
+- Crossroads Fellow ($8,000), University of California, Santa Barbara, 2019
