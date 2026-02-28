@@ -27,5 +27,3 @@ redirect_from:
 - Presidential Award ($10,000), McLean Hospital, 2025–2026
 - Audience Choice Award, University of California, Irvine Associated Graduate Students (AGS) Symposium, 2021
 - Team Science Honorable Mention, Massachusetts General Hospital Clinical Research Day, 2022
-
-*For my full CV, please [contact me](mailto:ycheng23@mgh.harvard.edu).*
