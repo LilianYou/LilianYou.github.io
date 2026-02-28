@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "You (Lilian) Cheng"
   avatar           : "lily_uci.png"
-  bio              : "Research Fellow at Massachusetts General Hospital & Harvard Medical School"
-  location         : "Cambridge, MA, USA"
+  bio              : "Postdoctoral Research Fellow at McLean Hospital & Harvard Medical School"
+  location         : "Belmont, MA, USA"
   employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=LnggShgAAAAJ&hl=en"
@@ -103,11 +103,11 @@ author:
   lastfm           :
   linkedin         : "youchenglily"
   orcid            : "http://orcid.org/0000-0002-3141-0104"
-  medium           : "@chengyou317"
+  # medium           : "@chengyou317"
   soundcloud       :
-  stackoverflow    : "10405022/lily"
-  researchgate     : "https://www.researchgate.net/profile/You-Cheng-2"
-  publons          : "https://publons.com/researcher/4121110/you-cheng"
+  # stackoverflow    : "10405022/lily"
+  # researchgate     : "https://www.researchgate.net/profile/You-Cheng-2"
+  # publons          : "https://publons.com/researcher/4121110/you-cheng"
   tumblr           :
   twitter          : "@Lily_You_Cheng" #"replacethistwitterhandle"
   vine             :
