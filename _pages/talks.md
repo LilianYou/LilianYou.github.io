@@ -67,7 +67,3 @@ Select Poster Presentations (2024–2026)
 * Starrett Ambrose, M., <b>Cheng, Y.</b>, Davis, R., Chrastil, E.R. Abstract relational distance coding in the human brain. *Cognitive Neuroscience Society (CNS) Annual Meeting, Boston, March 2025.*
 
 * <b>Cheng, Y.</b>, Gopinath K., Billot, B., Iglesias, JE., Kivisakk Webb P., Chao-Yi W., Dodge H., Hyman B., Arnold S., Das S. Association of brain MRI signatures with Alzheimer's disease CSF biomarkers. *Alzheimer's Association International Conference (AAIC), Philadelphia, July 2024.*
-
-<br>
-
-For a complete list of presentations, see my [CV](/cv/).
