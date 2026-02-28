@@ -60,9 +60,3 @@ Hart, B., Achakulvisut, T., Adeyemi, A., Akrami, A., Alicea, B., Alonso-Andres, 
 ## Book Chapters
 
 Chrastil, E. R., & **Cheng, Y.** (2024). Central Coordination and Integration of Diverse Information to Form a Single Map. In K. Curtin & D. R. Montello (Eds.), *Collective Spatial Cognition: A Research Agenda* (Chapter 7). Routledge. [PDF]<!-- NEEDS LINK -->
-
----
-
-## Under Review & In Preparation
-
-*(Coming soon)*
