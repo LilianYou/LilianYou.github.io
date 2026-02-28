@@ -18,7 +18,8 @@ redirect_from:
 
 ## Academic Positions
 
-- Postdoctoral Research Fellow, McLean Hospital & Harvard Medical School, 2022 – present
+- Postdoctoral Research Fellow, McLean Hospital & Harvard Medical School, 2024 – present
+- Postdoctoral Research Fellow, Massachusetts General Hospital & Harvard Medical School, 2022 – 2024
 - Visiting Scholar, Max Planck Institute for Software Systems (MPI-SWS), 2021
 
 ## Selected Awards & Grants
