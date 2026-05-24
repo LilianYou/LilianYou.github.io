@@ -23,7 +23,7 @@ West, M., Magdamo, C., **Cheng, Y.**, He, Y., & Das, S. (2024). Leveraging Pre-t
 
 ---
 
-## Peer-Reviewed Research Articles: Neuroscience, Neuroimaging, and Clinical Data Science
+## Peer-Reviewed Research Articles
 
 **Cheng, Y.**, Medina, A., Korponay, C., Beckmann, C. F., Harper, D., & Nickerson, L. (2026). Investigating the amyloid–tau–neurodegeneration framework in Alzheimer's disease using semi-supervised multimodal imaging data fusion. *Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring*, 18(2), e70360. \[[DOI](https://doi.org/10.1002/dad2.70360)\] \[[PDF](https://lilianyou.github.io/files/2026_Cheng_DADM.pdf)\]
 
@@ -51,7 +51,7 @@ Billot, B., Magdamo, C., **Cheng, Y.**, Arnold, S. E., Das, S., & Iglesias, J. E
 
 ---
 
-## Peer-Reviewed Scholarship: Open Science, Education, and Academic Workforce Transparency
+## Open Science, Education, and Academic Workforce Scholarship
 
 Mollet, A., Hagan, A. K., **Cheng, Y.**, Kozik, A. J., Smith, C. T., Haage, A., & Jadavji, N. M. (2025). Beyond the leaky pipeline: A quantitative analysis of the academic job market in humanities and social sciences. *Studies in Graduate and Postdoctoral Education*. \[[DOI](https://doi.org/10.1108/SGPE-09-2024-0098)\]
 
