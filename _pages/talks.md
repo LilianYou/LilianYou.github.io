@@ -64,8 +64,6 @@ Select Poster Presentations (2024–2026)
 
 * Hannon, K., <b>Cheng, Y.</b>, Cohen-Gilbert, J., Korponay, C., Harnett, N., Kumar, P., Silveri, M., Nickerson, L. Structural Covariance Patterns of Alcohol Use. *McLean Research Day, Belmont, MA, 2026.*
 
-* Smith, C., <b>Cheng, Y.</b>, Hagan, A., Kozik, A., Haage, A., Jadavji, N. Towards a more humane process: Learning from the experiences of applicants on the faculty job market. *National Postdoctoral Association (NPA) Annual Conference, San Francisco, CA, 2026.*
-
 * <b>Cheng, Y.</b>, Medina, A., Korponay C., Harper, D., Nickerson, L. Multi-modal neuroimaging fusion reveals predictive patterns of affective symptoms and hyperactivity in Alzheimer's disease. *Alzheimer's Association International Conference (AAIC), Toronto, July 2025.* <b>Neuropsychiatric Syndromes PIA Best Postdoctoral Poster Award.</b>
 
 * <b>Cheng, Y.</b>, Medina, A., Korponay C., Harper, D., Nickerson, L. Multi-modal neuroimaging fusion reveals predictive patterns of affective symptoms and hyperactivity in Alzheimer's disease. *Alzheimer's Imaging Consortium Preconference (AIC), Toronto, July 2025.*
@@ -80,10 +78,18 @@ Select Poster Presentations (2024–2026)
 
 * Starrett Ambrose, M., <b>Cheng, Y.</b>, Davis, R., Chrastil, E.R. Abstract relational distance coding in the human brain. *Cognitive Neuroscience Society (CNS) Annual Meeting, Boston, March 2025.*
 
-* Haage, A., <b>Cheng, Y.</b>, Hagan, A., Kozik, A., Smith, C., Jadavji, N. Longitudinal insights from the faculty job market collaboration. *Cell Bio 2025, Philadelphia, PA.*
-
 * <b>Cheng, Y.</b>, Gopinath K., Billot, B., Iglesias, JE., Kivisakk Webb P., Chao-Yi W., Dodge H., Hyman B., Arnold S., Das S. Association of brain MRI signatures with Alzheimer's disease CSF biomarkers. *Alzheimer's Association International Conference (AAIC), Philadelphia, July 2024.*
 
 * Amini, S., <b>Cheng, Y.</b>, Magdamo, C., Paschalidis, I., Das, S. From normal cognition to dementia: Using natural language processing to identify cognitive stages leveraging electronic health records. *Alzheimer's Association International Conference (AAIC), Philadelphia, July 2024.*
+
+
+Open Science, Data Science, and Academic Transparency
+======
+
+I also apply data science to open-science and academic-workforce questions, including collaborative work on transparency, equity, and resilience in the biomedical faculty job market. This work reflects my broader commitment to using computational tools to make scientific systems more interpretable and transparent.
+
+* Smith, C., <b>Cheng, Y.</b>, Hagan, A., Kozik, A., Haage, A., Jadavji, N. Towards a more humane process: Learning from the experiences of applicants on the faculty job market. *National Postdoctoral Association (NPA) Annual Conference, San Francisco, CA, 2026.*
+
+* Haage, A., <b>Cheng, Y.</b>, Hagan, A., Kozik, A., Smith, C., Jadavji, N. Longitudinal insights from the faculty job market collaboration. *Cell Bio 2025, Philadelphia, PA.*
 
 * Flynn, B., <b>Cheng, Y.</b>, Hagan, A., Kozik, A., Mollet, A., Smith, C., Haage, A., Jadavji, N. Increasing Transparency in the Academic Job Market. *National Postdoctoral Association (NPA) Annual Conference, Seattle, WA, 2024.*

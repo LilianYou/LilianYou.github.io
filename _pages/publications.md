@@ -23,7 +23,7 @@ West, M., Magdamo, C., **Cheng, Y.**, He, Y., & Das, S. (2024). Leveraging Pre-t
 
 ---
 
-## Journal Articles
+## Peer-Reviewed Research Articles: Neuroscience, Neuroimaging, and Clinical Data Science
 
 **Cheng, Y.**, Medina, A., Korponay, C., Beckmann, C. F., Harper, D., Nickerson, L., & Alzheimer's Disease Neuroimaging Initiative. (2026). Investigating the amyloid–tau–neurodegeneration framework in Alzheimer's disease using semi-supervised multimodal imaging data fusion. *Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring*, 18(2), e70360. \[[DOI](https://doi.org/10.1002/dad2.70360)\] \[[PDF](https://lilianyou.github.io/files/2026_Cheng_DADM.pdf)\]
 
@@ -37,10 +37,6 @@ Liu, P., Zemlyanker, D., Gopinath, K., **Cheng, Y.**, He, Y., Izquierdo-Garcia, 
 
 West, M., **Cheng, Y.**, He, Y., Leng, Y., Magdamo, C., Hyman, B. T., Dickson, J. R., Serrano-Pozo, A., Blacker, D., & Das, S. (2025). Unsupervised Deep Learning of Electronic Health Records to Characterize Heterogeneity Across Alzheimer Disease and Related Dementias: Cross-Sectional Study. *JMIR Aging*, 8(1). \[[DOI](https://doi.org/10.2196/65178)\] \[[PDF](https://lilianyou.github.io/files/2025_West_Cheng_He_JMIR_Aging.pdf)\]
 
-Mollet, A., Hagan, A. K., **Cheng, Y.**, Kozik, A. J., Smith, C. T., Haage, A., & Jadavji, N. M. (2025). Beyond the leaky pipeline: A quantitative analysis of the academic job market in humanities and social sciences. *Studies in Graduate and Postdoctoral Education*. \[[DOI](https://doi.org/10.1108/SGPE-09-2024-0098)\]
-
-Flynn, B., Kozik, A. J., **Cheng, Y.**, Hagan, A. K., Ng, J., Smith, C. T., Haage, A., & Jadavji, N. M. (2024). An updated and expanded characterization of the biological sciences academic job market. *Frontiers in Research Metrics and Analytics*, 9, 1473940. \[[DOI](https://doi.org/10.3389/frma.2024.1473940)\]
-
 Gopinath, K., Hoopes, A., Alexander, D. C., Arnold, S. E., Balbastre, Y., Billot, B., Casamitjana, A., **Cheng, Y.**, et al. (2024). Synthetic data in generalizable, learning-based neuroimaging. *Imaging Neuroscience*, 2, 1–22. \[[DOI](https://doi.org/10.1162/imag_a_00337)\]
 
 **Cheng, Y.**, Ho, E., Weintraub, S., Rentz, D. M., Gershon, R. C., Das, S., & Dodge, H. H. (2024). Predicting Brain Amyloid Status Using the National Institute of Health Toolbox (NIHTB) for Assessment of Neurological and Behavioral Function. *The Journal of Prevention of Alzheimer's Disease*, 11(4), 943–957. \[[DOI](https://doi.org/10.14283/jpad.2024.77)\]
@@ -51,9 +47,17 @@ Billot, B., Magdamo, C., **Cheng, Y.**, Arnold, S. E., Das, S., & Iglesias, J. E
 
 **Cheng, Y.**, He, C., Hegarty, M., & Chrastil, E. R. (2022). Who believes they are good navigators? A machine learning pipeline highlights the impact of gender, commuting time, and education. *Machine Learning with Applications*, 10, 100419. \[[PDF](https://lilianyou.github.io/files/2022_self_report_MLWA_Cheng.pdf)\] [DOI]<!-- NEEDS LINK -->
 
-Hart, B., Achakulvisut, T., Adeyemi, A., Akrami, A., Alicea, B., Alonso-Andres, A., ..., **Cheng, Y.**, ..., & Vishne, G. (2022). Neuromatch Academy: a 3-week, online summer school in computational neuroscience. *Journal of Open Source Education*, 5(49). \[[PDF](https://lilianyou.github.io/files/2022_neuromatch_jose.pdf)\] [DOI]<!-- NEEDS LINK -->
-
 **Cheng, Y.**, Hegarty, M., & Chrastil, E. R. (2020). Telling right from right: the influence of handedness in the mental rotation of hands. *Cognitive Research: Principles and Implications*, 5, 1–18. \[[PDF](https://lilianyou.github.io/files/2020-Cheng.pdf)\] [DOI]<!-- NEEDS LINK -->
+
+---
+
+## Peer-Reviewed Scholarship: Open Science, Education, and Academic Workforce Transparency
+
+Mollet, A., Hagan, A. K., **Cheng, Y.**, Kozik, A. J., Smith, C. T., Haage, A., & Jadavji, N. M. (2025). Beyond the leaky pipeline: A quantitative analysis of the academic job market in humanities and social sciences. *Studies in Graduate and Postdoctoral Education*. \[[DOI](https://doi.org/10.1108/SGPE-09-2024-0098)\]
+
+Flynn, B., Kozik, A. J., **Cheng, Y.**, Hagan, A. K., Ng, J., Smith, C. T., Haage, A., & Jadavji, N. M. (2024). An updated and expanded characterization of the biological sciences academic job market. *Frontiers in Research Metrics and Analytics*, 9, 1473940. \[[DOI](https://doi.org/10.3389/frma.2024.1473940)\]
+
+Hart, B., Achakulvisut, T., Adeyemi, A., Akrami, A., Alicea, B., Alonso-Andres, A., ..., **Cheng, Y.**, ..., & Vishne, G. (2022). Neuromatch Academy: a 3-week, online summer school in computational neuroscience. *Journal of Open Source Education*, 5(49). \[[PDF](https://lilianyou.github.io/files/2022_neuromatch_jose.pdf)\] [DOI]<!-- NEEDS LINK -->
 
 ---
 
