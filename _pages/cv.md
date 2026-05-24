@@ -24,7 +24,8 @@ redirect_from:
 
 ## Selected Awards
 
+- Neal Alan Mysell Award, Harvard Medical School Department of Psychiatry, 2026
+- Presidential Award, McLean Hospital, 2025, 2026
 - Neuropsychiatric Syndromes PIA Best Postdoctoral Poster Award, Alzheimer's Association International Conference (AAIC), 2025
-- Presidential Award ($10,000), McLean Hospital, 2025–2026
 - Google Cloud Research Credit Grant ($1,000), Google LLC, 2023–2024
 - Roger W. Russell Scholar's Award ($1,000), Center for the Neurobiology of Learning and Memory (CNLM), University of California, Irvine, 2021
