@@ -53,7 +53,7 @@ Billot, B., Magdamo, C., **Cheng, Y.**, Arnold, S. E., Das, S., & Iglesias, J. E
 
 ## Open Science, Education, and Academic Workforce Scholarship
 
-Mollet, A., Hagan, A. K., **Cheng, Y.**, Kozik, A. J., Smith, C. T., Haage, A., & Jadavji, N. M. (2025). Beyond the leaky pipeline: A quantitative analysis of the academic job market in humanities and social sciences. *Studies in Graduate and Postdoctoral Education*. \[[DOI](https://doi.org/10.1108/SGPE-09-2024-0098)\]
+Mollet, A., Hagan, A. K., **Cheng, Y.**, Kozik, A. J., Smith, C. T., Haage, A., & Jadavji, N. M. (2025). Beyond the leaky pipeline: A quantitative analysis of the academic job market in humanities and social sciences. *Studies in Graduate and Postdoctoral Education*, 1–20. \[[DOI](https://doi.org/10.1108/SGPE-09-2024-0098)\]
 
 Flynn, B., Kozik, A. J., **Cheng, Y.**, Hagan, A. K., Ng, J., Smith, C. T., Haage, A., & Jadavji, N. M. (2024). An updated and expanded characterization of the biological sciences academic job market. *Frontiers in Research Metrics and Analytics*, 9, 1473940. \[[DOI](https://doi.org/10.3389/frma.2024.1473940)\]
 
