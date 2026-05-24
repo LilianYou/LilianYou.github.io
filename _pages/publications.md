@@ -11,8 +11,6 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 ## Preprints
 
-**Cheng, Y.**, Medina, A., Korponay, C., Beckmann, C. F., Harper, D., & Nickerson, L. (2025). Investigating the Amyloid-Tau-Neurodegeneration Framework in Alzheimer's Disease Using Semi-Supervised Multimodal Imaging Data Fusion. *medRxiv*. \[[Preprint](https://doi.org/10.64898/2025.12.11.25341830)\]
-
 Korponay, C., Cohen-Gilbert, J. E., Kumar, P., Harnett, N. G., Medina, A. A., **Cheng, Y.**, Forester, B. P., Ressler, K. J., Demsar, J., Frederick, B. B., Beckmann, C. F., Harper, D. G., & Nickerson, L. D. (2025). Cognition-centric brain activity across diverse imaging tasks constrains the representation of mental health in brain function data. *bioRxiv*. \[[Preprint](https://doi.org/10.1101/2025.06.11.659091)\]
 
 Aguila, A. L., Zemlyanker, D., **Cheng, Y.**, Das, S., Alexander, D. C., Puonti, O., Sorby-Adams, A., Kimberly, W. T., & Iglesias, J. E. (2025). Deep generative priors for 3D brain analysis. *arXiv*:2510.15119. \[[Preprint](https://arxiv.org/abs/2510.15119)\]
@@ -26,6 +24,8 @@ West, M., Magdamo, C., **Cheng, Y.**, He, Y., & Das, S. (2024). Leveraging Pre-t
 ---
 
 ## Journal Articles
+
+**Cheng, Y.**, Medina, A., Korponay, C., Beckmann, C. F., Harper, D., Nickerson, L., & Alzheimer's Disease Neuroimaging Initiative. (2026). Investigating the amyloid–tau–neurodegeneration framework in Alzheimer's disease using semi-supervised multimodal imaging data fusion. *Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring*, 18(2), e70360. \[[DOI](https://doi.org/10.1002/dad2.70360)\] \[[PDF](https://lilianyou.github.io/files/2026_Cheng_DADM.pdf)\]
 
 Korponay, C., Cohen-Gilbert, J. E., **Cheng, Y.**, Kumar, P., Harnett, N. G., Medina, A. A., Forester, B. P., Ressler, K. J., Demsar, J., Frederick, B. B., Beckmann, C. F., Harper, D. G., & Nickerson, L. D. (2025). Disentangling large-scale brain dynamics and their links to behavior during the emotional face matching task. *Communications Biology*, 8, 1176. \[[DOI](https://doi.org/10.1038/s42003-025-08543-5)\]
 
