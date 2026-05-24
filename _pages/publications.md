@@ -25,7 +25,7 @@ West, M., Magdamo, C., **Cheng, Y.**, He, Y., & Das, S. (2024). Leveraging Pre-t
 
 ## Peer-Reviewed Research Articles: Neuroscience, Neuroimaging, and Clinical Data Science
 
-**Cheng, Y.**, Medina, A., Korponay, C., Beckmann, C. F., Harper, D., Nickerson, L., & Alzheimer's Disease Neuroimaging Initiative. (2026). Investigating the amyloid–tau–neurodegeneration framework in Alzheimer's disease using semi-supervised multimodal imaging data fusion. *Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring*, 18(2), e70360. \[[DOI](https://doi.org/10.1002/dad2.70360)\] \[[PDF](https://lilianyou.github.io/files/2026_Cheng_DADM.pdf)\]
+**Cheng, Y.**, Medina, A., Korponay, C., Beckmann, C. F., Harper, D., & Nickerson, L. (2026). Investigating the amyloid–tau–neurodegeneration framework in Alzheimer's disease using semi-supervised multimodal imaging data fusion. *Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring*, 18(2), e70360. \[[DOI](https://doi.org/10.1002/dad2.70360)\] \[[PDF](https://lilianyou.github.io/files/2026_Cheng_DADM.pdf)\]
 
 Korponay, C., Cohen-Gilbert, J. E., **Cheng, Y.**, Kumar, P., Harnett, N. G., Medina, A. A., Forester, B. P., Ressler, K. J., Demsar, J., Frederick, B. B., Beckmann, C. F., Harper, D. G., & Nickerson, L. D. (2025). Disentangling large-scale brain dynamics and their links to behavior during the emotional face matching task. *Communications Biology*, 8, 1176. \[[DOI](https://doi.org/10.1038/s42003-025-08543-5)\]
 
