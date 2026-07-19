@@ -56,6 +56,14 @@ Oral Presentations
 Select Poster Presentations (2024–2026)
 ======
 
+* <b>Cheng, Y.</b>, Medina, A., Korponay, C., Harper, D., Nickerson, L. Investigating the Amyloid-Tau-Neurodegeneration Framework in Alzheimer's Disease Using Semi-Supervised Multimodal Imaging Data Fusion. *Alzheimer's Association International Conference (AAIC), London, United Kingdom, July 2026.*
+
+* <b>Cheng, Y.</b>, Medina, A., Korponay, C., Harper, D., Nickerson, L. Multimodal Latent Neuroimaging Phenotyping Identifies Cognitive Aging Subtypes and Their Neurotransmitter Architecture. *Alzheimer's Association International Conference (AAIC), London, United Kingdom, July 2026.*
+
+* <b>Cheng, Y.</b>, Medina, A., Korponay, C., Harper, D., Nickerson, L. Semi-Supervised Multimodal Fusion for the Amyloid-Tau-Neurodegeneration Framework in Alzheimer's Disease. *Organization for Human Brain Mapping (OHBM) Annual Meeting, Bordeaux, France, June 2026.*
+
+* Hannon, K., <b>Cheng, Y.</b>, Medina, A., Korponay, C., Cohen-Gilbert, J., Kumar, P., Harper, D., Nickerson, L. Temporal Dynamics of Neuropsychiatric Symptoms, Cognitive Decline, and Cortical Thickness. *Organization for Human Brain Mapping (OHBM) Annual Meeting, Bordeaux, France, June 2026.*
+
 * <b>Cheng, Y.</b>, Medina, A., Korponay C., Harper, D., Nickerson, L. Investigating the Amyloid-Tau-Neurodegeneration Framework in Alzheimer's Disease Using Semi-Supervised Multimodal Imaging Data Fusion. *Society of Biological Psychiatry Annual Meeting (SOBP), New York, May 2026.*
 
 * Hannon, K., <b>Cheng, Y.</b>, Cohen-Gilbert, J., Korponay, C., Harnett, N., Kumar, P., Silveri, M., Nickerson, L. Structural-Functional Covariance Patterns of Alcohol Use. *Society of Biological Psychiatry Annual Meeting (SOBP), New York, May 2026.*
@@ -63,6 +71,8 @@ Select Poster Presentations (2024–2026)
 * Korponay, C., Cohen-Gilbert, J. E., Kumar, P., Harnett, G., Medina, A., <b>Cheng, Y.</b>, Forester, B., Ressler, K., Demsar, J., Frederick, B., Beckmann, C., Harper, D., Nickerson, L. Divergence of task fMRI- and mental-health-derived biotypes. *McLean Research Day, Belmont, MA, 2026.*
 
 * Hannon, K., <b>Cheng, Y.</b>, Cohen-Gilbert, J., Korponay, C., Harnett, N., Kumar, P., Silveri, M., Nickerson, L. Structural Covariance Patterns of Alcohol Use. *McLean Research Day, Belmont, MA, 2026.*
+
+* <b>Cheng, Y.</b>, Medina, A., Korponay, C., Harper, D., Nickerson, L. Multimodal Latent Neuroimaging Phenotyping Identifies Cognitive Aging Subtypes and Their Neurotransmitter Architecture. *Harvard Psychiatric Research Day, Boston, March 2026.* <b>Neal Alan Mysell Award.</b>
 
 * <b>Cheng, Y.</b>, Medina, A., Korponay C., Harper, D., Nickerson, L. Multi-modal neuroimaging fusion reveals predictive patterns of affective symptoms and hyperactivity in Alzheimer's disease. *Alzheimer's Association International Conference (AAIC), Toronto, July 2025.* <b>Neuropsychiatric Syndromes PIA Best Postdoctoral Poster Award.</b>
 

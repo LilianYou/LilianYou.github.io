@@ -17,7 +17,7 @@ Aguila, A. L., Zemlyanker, D., **Cheng, Y.**, Das, S., Alexander, D. C., Puonti,
 
 West, M., Magdamo, C., **Cheng, Y.**, He, Y., & Das, S. (2024). Leveraging Pre-trained and Transformer-derived Embeddings from EHRs to Characterize Heterogeneity Across Alzheimer's Disease and Related Dementias. *arXiv*:2404.00464. \[[Preprint](https://arxiv.org/abs/2404.00464)\]
 
-**Cheng, Y.**, Ling, S., Stern, C. E., & Chrastil, E. R. (2023). Navigational systems in the human brain dynamically code for past, present, and future trajectories. *bioRxiv*. [preprint]<!-- NEEDS LINK -->
+**Cheng, Y.**, Ling, S., Stern, C. E., & Chrastil, E. R. (2023). Navigational systems in the human brain dynamically code for past, present, and future trajectories. *bioRxiv*. \[[Preprint](https://doi.org/10.1101/2023.08.22.554387)\]
 
 **Cheng, Y.**, & Chrastil, E. R. (2021). From Individual Cognitive Maps to a Collective Cognitive Map: Prescriptive Guidelines and Measurement of Factors that Could Distort the Mapping Process. *PsyArXiv*. \[[Preprint](https://doi.org/10.31234/osf.io/7ygk2)\] \[[PDF](https://lilianyou.github.io/files/2021_collective_navigation_preprint_Cheng.pdf)\]
 
@@ -41,13 +41,13 @@ Gopinath, K., Hoopes, A., Alexander, D. C., Arnold, S. E., Balbastre, Y., Billot
 
 **Cheng, Y.**, Ho, E., Weintraub, S., Rentz, D. M., Gershon, R. C., Das, S., & Dodge, H. H. (2024). Predicting Brain Amyloid Status Using the National Institute of Health Toolbox (NIHTB) for Assessment of Neurological and Behavioral Function. *The Journal of Prevention of Alzheimer's Disease*, 11(4), 943–957. \[[DOI](https://doi.org/10.14283/jpad.2024.77)\]
 
-**Cheng, Y.**, Ling, S., Stern, C. E., Huang, A., & Chrastil, E. R. (2024). (Don't) look where you're going: Evidence for a travel direction signal in humans that is independent of head direction. *Journal of Experimental Psychology: General*, 153(4), 1038–1052. \[[Preprint](https://www.biorxiv.org/content/10.1101/2022.08.22.504860v1)\] [DOI]<!-- NEEDS LINK -->
+**Cheng, Y.**, Ling, S., Stern, C. E., Huang, A., & Chrastil, E. R. (2024). (Don't) look where you're going: Evidence for a travel direction signal in humans that is independent of head direction. *Journal of Experimental Psychology: General*, 153(4), 1038–1052. \[[Preprint](https://www.biorxiv.org/content/10.1101/2022.08.22.504860v1)\] \[[DOI](https://doi.org/10.1037/xge0001538)\]
 
 Billot, B., Magdamo, C., **Cheng, Y.**, Arnold, S. E., Das, S., & Iglesias, J. E. (2023). Robust machine learning segmentation for large-scale analysis of heterogeneous clinical brain MRI datasets. *Proceedings of the National Academy of Sciences*, 120(9), e2216399120. \[[DOI](https://doi.org/10.1073/pnas.2216399120)\] \[[PDF](https://lilianyou.github.io/files/2023_SynthSeg_PNAS_Billot.pdf)\]
 
-**Cheng, Y.**, He, C., Hegarty, M., & Chrastil, E. R. (2022). Who believes they are good navigators? A machine learning pipeline highlights the impact of gender, commuting time, and education. *Machine Learning with Applications*, 10, 100419. \[[PDF](https://lilianyou.github.io/files/2022_self_report_MLWA_Cheng.pdf)\] [DOI]<!-- NEEDS LINK -->
+**Cheng, Y.**, He, C., Hegarty, M., & Chrastil, E. R. (2022). Who believes they are good navigators? A machine learning pipeline highlights the impact of gender, commuting time, and education. *Machine Learning with Applications*, 10, 100419. \[[PDF](https://lilianyou.github.io/files/2022_self_report_MLWA_Cheng.pdf)\] \[[DOI](https://doi.org/10.1016/j.mlwa.2022.100419)\]
 
-**Cheng, Y.**, Hegarty, M., & Chrastil, E. R. (2020). Telling right from right: the influence of handedness in the mental rotation of hands. *Cognitive Research: Principles and Implications*, 5, 1–18. \[[PDF](https://lilianyou.github.io/files/2020-Cheng.pdf)\] [DOI]<!-- NEEDS LINK -->
+**Cheng, Y.**, Hegarty, M., & Chrastil, E. R. (2020). Telling right from right: the influence of handedness in the mental rotation of hands. *Cognitive Research: Principles and Implications*, 5, 1–18. \[[PDF](https://lilianyou.github.io/files/2020-Cheng.pdf)\] \[[DOI](https://doi.org/10.1186/s41235-020-00230-9)\]
 
 ---
 
@@ -57,10 +57,10 @@ Mollet, A., Hagan, A. K., **Cheng, Y.**, Kozik, A. J., Smith, C. T., Haage, A., 
 
 Flynn, B., Kozik, A. J., **Cheng, Y.**, Hagan, A. K., Ng, J., Smith, C. T., Haage, A., & Jadavji, N. M. (2024). An updated and expanded characterization of the biological sciences academic job market. *Frontiers in Research Metrics and Analytics*, 9, 1473940. \[[DOI](https://doi.org/10.3389/frma.2024.1473940)\]
 
-Hart, B., Achakulvisut, T., Adeyemi, A., Akrami, A., Alicea, B., Alonso-Andres, A., ..., **Cheng, Y.**, ..., & Vishne, G. (2022). Neuromatch Academy: a 3-week, online summer school in computational neuroscience. *Journal of Open Source Education*, 5(49). \[[PDF](https://lilianyou.github.io/files/2022_neuromatch_jose.pdf)\] [DOI]<!-- NEEDS LINK -->
+Hart, B., Achakulvisut, T., Adeyemi, A., Akrami, A., Alicea, B., Alonso-Andres, A., ..., **Cheng, Y.**, ..., & Vishne, G. (2022). Neuromatch Academy: a 3-week, online summer school in computational neuroscience. *Journal of Open Source Education*, 5(49). \[[PDF](https://lilianyou.github.io/files/2022_neuromatch_jose.pdf)\] \[[DOI](https://doi.org/10.21105/jose.00118)\]
 
 ---
 
 ## Book Chapters
 
-Chrastil, E. R., & **Cheng, Y.** (2024). Central Coordination and Integration of Diverse Information to Form a Single Map. In K. Curtin & D. R. Montello (Eds.), *Collective Spatial Cognition: A Research Agenda* (Chapter 7). Routledge. [PDF]<!-- NEEDS LINK -->
+Chrastil, E. R., & **Cheng, Y.** (2024). Central Coordination and Integration of Diverse Information to Form a Single Map. In K. Curtin & D. R. Montello (Eds.), *Collective Spatial Cognition: A Research Agenda* (Chapter 7). Routledge. \[[Book](https://www.routledge.com/Collective-Spatial-Cognition-A-Research-Agenda/Curtin-Montello/p/book/9781032065427)\]
