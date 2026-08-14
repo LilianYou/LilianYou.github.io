@@ -11,8 +11,8 @@ author_profile: true
 
 * **2026–2027** — Gemini Academic Program Award. PI. $20,000 in Google Cloud credits for Gemini research. Google.
 
-* **2026–2027** — Presidential Award, $10,000. McLean Hospital.
+* **2026–2027** — Presidential Award, $10,000 in research support. McLean Hospital.
 
-* **2025–2026** — Presidential Award, $10,000. McLean Hospital.
+* **2025–2026** — Presidential Award, $10,000 in research support. McLean Hospital.
 
 * **2023–2024** — "Big data analyses of sociocultural influences on human cognitive abilities." PI. Google Cloud Research Credits, $1,000. Google.
