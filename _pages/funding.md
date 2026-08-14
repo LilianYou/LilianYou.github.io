@@ -24,5 +24,3 @@ author_profile: true
 * **2025** — Best Postdoctoral Poster Award. AAIC Neuropsychiatric Syndromes Professional Interest Area (PIA).
 
 * **2025–2026** — SIRCTT Scholar. Sex-Informed Research Collaborative Think Tank (SIRCTT), Connors Center for Women's Health and Gender Biology, Brigham and Women's Hospital / Harvard Medical School.
-
-For a complete funding and honors record, see my [CV](/cv/).
