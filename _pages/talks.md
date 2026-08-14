@@ -12,6 +12,8 @@ author_profile: true
 Invited Talks
 ======
 
+* Finding my path in neuroscience: from human behavior to brain data. *Harvard Brain Science Initiative (HBI) Journeys in Neuro, Boston, July 2026.*
+
 * AI Foundation Models in Neuroimaging. *AI in Psychiatry Seminar, McLean Hospital, May 2026.*
 
 * SuperBigFLICA: code modifications and applications. *The 2nd meeting of the users' committee for the NWO-VICI project "Big data for precision neuroscience: new tools for brain connectopics", Donders Centre for Cognitive Neuroimaging (DCCN), Nijmegen, Netherlands & virtual, May 2025.*
@@ -29,6 +31,10 @@ Invited Talks
 
 Oral Presentations
 ======
+
+* Amyloid, Tau, and Neurodegeneration Underlying Heterogeneity in Aging and Cognitive Decline: A Semi-Supervised Neuroimaging Fusion and Neurotransmitter Correspondence Analysis. *Society of Biological Psychiatry Annual Meeting (SOBP), New York, May 2026.*
+
+* Multimodal Latent Neuroimaging Phenotyping Identifies Cognitive Aging Subtypes and Their Neurotransmitter Architecture. *Harvard Psychiatry Research Day, Boston, March 2026.* <b>Neal Alan Mysell Award.</b>
 
 * Evidence for a distributed head direction and travel trajectory system in the human brain during active navigation. *Society for Neuroscience (SfN), San Diego, Nov. 2022.*
 
@@ -72,7 +78,7 @@ Select Poster Presentations (2024–2026)
 
 * Hannon, K., <b>Cheng, Y.</b>, Cohen-Gilbert, J., Korponay, C., Harnett, N., Kumar, P., Silveri, M., Nickerson, L. Structural Covariance Patterns of Alcohol Use. *McLean Research Day, Belmont, MA, 2026.*
 
-* <b>Cheng, Y.</b>, Medina, A., Korponay, C., Harper, D., Nickerson, L. Multimodal Latent Neuroimaging Phenotyping Identifies Cognitive Aging Subtypes and Their Neurotransmitter Architecture. *Harvard Psychiatric Research Day, Boston, March 2026.* <b>Neal Alan Mysell Award.</b>
+* <b>Cheng, Y.</b>, Medina, A., Korponay, C., Harper, D., Nickerson, L. Multimodal Latent Neuroimaging Phenotyping Identifies Cognitive Aging Subtypes and Their Neurotransmitter Architecture. *Harvard Psychiatry Research Day, Boston, March 2026.* <b>Neal Alan Mysell Award.</b>
 
 * <b>Cheng, Y.</b>, Medina, A., Korponay C., Harper, D., Nickerson, L. Multi-modal neuroimaging fusion reveals predictive patterns of affective symptoms and hyperactivity in Alzheimer's disease. *Alzheimer's Association International Conference (AAIC), Toronto, July 2025.* <b>Neuropsychiatric Syndromes PIA Best Postdoctoral Poster Award.</b>
 

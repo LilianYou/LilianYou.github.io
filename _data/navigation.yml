@@ -10,7 +10,10 @@ main:
     
   - title: "Talks"
     url: /talks/
-    
+
+  - title: "Funding & Honors"
+    url: /funding/
+
   - title: "Teaching"
     url: /teaching/
     
