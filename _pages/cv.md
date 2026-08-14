@@ -23,10 +23,11 @@ redirect_from:
 - Postdoctoral Research Fellow, Massachusetts General Hospital & Harvard Medical School, 2022 – 2024
 - Visiting Scholar, Max Planck Institute for Software Systems (MPI-SWS), 2021
 
-## Selected Awards
+## Selected Honors
 
-- Neal Alan Mysell Award, Harvard Medical School Department of Psychiatry, 2026
-- Presidential Award, McLean Hospital, 2025, 2026
-- Neuropsychiatric Syndromes PIA Best Postdoctoral Poster Award, Alzheimer's Association International Conference (AAIC), 2025
-- Google Cloud Research Credit Grant ($1,000), Google LLC, 2023–2024
-- Roger W. Russell Scholar's Award ($1,000), Center for the Neurobiology of Learning and Memory (CNLM), University of California, Irvine, 2021
+- 2026 — Neal Alan Mysell Award. Harvard Psychiatry Research Day, Harvard Medical School.
+- 2025–2026 — SIRCTT Scholar. Sex-Informed Research Collaborative Think Tank (SIRCTT), Connors Center for Women's Health and Gender Biology, Brigham and Women's Hospital / Harvard Medical School.
+- 2025 — Best Postdoctoral Poster Award. AAIC Neuropsychiatric Syndromes Professional Interest Area (PIA).
+- 2022 — Research Education Component (REC) Scholar. Massachusetts Alzheimer's Disease Research Center (MADRC), Massachusetts General Hospital / Harvard Medical School.
+- 2021 — Roger W. Russell Scholar's Award. Center for the Neurobiology of Learning and Memory, University of California, Irvine.
+- 2020 — Trainee Professional Development Award (TPDA). Society for Neuroscience.
