@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Funding & Honors"
+title: "Funding"
 permalink: /funding/
 author_profile: true
 ---
@@ -16,11 +16,3 @@ author_profile: true
 * **2025–2026** — Presidential Award, $10,000. McLean Hospital.
 
 * **2023–2024** — "Big data analyses of sociocultural influences on human cognitive abilities." PI. Google Cloud Research Credits, $1,000. Google.
-
-## Selected Honors
-
-* **2026** — Neal Alan Mysell Award. Harvard Psychiatry Research Day, Harvard Medical School.
-
-* **2025** — Best Postdoctoral Poster Award. AAIC Neuropsychiatric Syndromes Professional Interest Area (PIA).
-
-* **2025–2026** — SIRCTT Scholar. Sex-Informed Research Collaborative Think Tank (SIRCTT), Connors Center for Women's Health and Gender Biology, Brigham and Women's Hospital / Harvard Medical School.
