@@ -40,8 +40,6 @@ Invited Talks
 Oral Presentations
 ======
 
-* Amyloid, Tau, and Neurodegeneration Underlying Heterogeneity in Aging and Cognitive Decline: A Semi-Supervised Neuroimaging Fusion and Neurotransmitter Correspondence Analysis. *Society of Biological Psychiatry Annual Meeting (SOBP), New York, May 2026.*
-
 * Multimodal Latent Neuroimaging Phenotyping Identifies Cognitive Aging Subtypes and Their Neurotransmitter Architecture. *Harvard Psychiatry Research Day, Boston, March 2026.* <b>Neal Alan Mysell Award.</b>
 
 * Evidence for a distributed head direction and travel trajectory system in the human brain during active navigation. *Society for Neuroscience (SfN), San Diego, Nov. 2022.*
