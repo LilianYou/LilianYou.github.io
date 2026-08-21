@@ -20,7 +20,7 @@ Upcoming Talks
 Invited Talks
 ======
 
-* Finding my path in neuroscience: from human behavior to brain data. *Harvard Brain Science Initiative (HBI) Journeys in Neuro, Boston, July 2026.*
+* Finding my path in neuroscience: from human behavior to brain data. *[Harvard Brain Science Initiative (HBI) Journeys in Neuro](https://brain.harvard.edu/hbi_events/journeys-in-neuro-jul-26/), Boston, July 2026.*
 
 * AI Foundation Models in Neuroimaging. *AI in Psychiatry Seminar, McLean Hospital, May 2026.*
 
