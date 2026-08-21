@@ -18,3 +18,11 @@ Before joining McLean, I was a Postdoctoral Research Fellow at [Massachusetts Ge
 I received my Ph.D. in Cognitive Sciences (Cognitive Neuroscience) from the [University of California, Irvine](https://www.cogsci.uci.edu/), where I worked with [Prof. Elizabeth R. Chrastil](https://faculty.sites.uci.edu/spatialneuro/) studying the neural mechanisms of human spatial navigation—how the brain computes travel direction, trajectory planning, and spatial decision-making—using psychophysics, fMRI, and computational modeling.
 
 Underlying this trajectory is training across experimental psychology, cognitive neuroscience, and geography. That interdisciplinary lens shapes how I approach neuroscience: cognition is situated in context, varies across spatial and demographic scales, and understanding these dimensions is essential for developing equitable approaches to brain health.
+
+---
+
+## Research Opportunities
+
+I mentor Harvard-affiliated students and trainees on computational research projects related to multimodal neuroimaging, machine learning, aging, and Alzheimer's disease and related dementias. Opportunities vary depending on current projects and mentoring capacity. If your interests overlap with my work, feel free to reach out.
+
+Current undergraduate research opportunities may also be listed through the [Kempner Institute](https://kempnerinstitute.harvard.edu/kempner-community/undergraduate-research-opportunities/).

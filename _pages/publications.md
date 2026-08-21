@@ -11,6 +11,8 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 ## Preprints
 
+Haage, A., **Cheng, Y.**, Smith, C., Kozik, A. J., Hagan, A., & Jadavji, N. M. (2026). When are Biomedical Postdocs Ready for the Faculty Job Market? A Mixed-Methods Analysis of Metrics and Resilience Among Faculty Job Seekers. *bioRxiv*. \[[Preprint](https://doi.org/10.64898/2026.08.14.744880)\]
+
 Korponay, C., Cohen-Gilbert, J. E., Kumar, P., Harnett, N. G., Medina, A. A., **Cheng, Y.**, Forester, B. P., Ressler, K. J., Demsar, J., Frederick, B. B., Beckmann, C. F., Harper, D. G., & Nickerson, L. D. (2025). Cognition-centric brain activity across diverse imaging tasks constrains the representation of mental health in brain function data. *bioRxiv*. \[[Preprint](https://doi.org/10.1101/2025.06.11.659091)\]
 
 Aguila, A. L., Zemlyanker, D., **Cheng, Y.**, Das, S., Alexander, D. C., Puonti, O., Sorby-Adams, A., Kimberly, W. T., & Iglesias, J. E. (2025). Deep generative priors for 3D brain analysis. *arXiv*:2510.15119. \[[Preprint](https://arxiv.org/abs/2510.15119)\]
