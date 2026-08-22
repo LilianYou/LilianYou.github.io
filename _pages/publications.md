@@ -35,7 +35,7 @@ Liu, P., Zemlyanker, D., Gopinath, K., **Cheng, Y.**, He, Y., Izquierdo-Garcia, 
 
 **Cheng, Y.**\*, Malekar, M.\*, He, Y.\*, Bommareddy, A., Magdamo, C., Singh, A., Westover, B., Mukerji, S. S., Dickson, J., & Das, S. (2025). High-Throughput Phenotyping of the Symptoms of Alzheimer Disease and Related Dementias Using Large Language Models: Cross-Sectional Study. *JMIR AI*, 4(1). \[[DOI](https://doi.org/10.2196/66926)\]
 
-**Cheng, Y.**, He, Y., Gopinath, K., Billot, B., Iglesias, J. E., Wu, C.-Y., Dodge, H., Wills, A.-M., Carlyle, B., Kivisäkk, P., Hyman, B. T., Arnold, S. E., & Das, S. (2025). Brain MRI signatures across sex and CSF Alzheimer's disease biomarkers. *Brain Communications*, 7(3), fcaf210. \[[DOI](https://doi.org/10.1093/braincomms/fcaf210)\]
+**Cheng, Y.**\*, He, Y.\*, Gopinath, K., Billot, B., Iglesias, J. E., Wu, C.-Y., Dodge, H., Wills, A.-M., Carlyle, B., Kivisäkk, P., Hyman, B. T., Arnold, S. E., & Das, S. (2025). Brain MRI signatures across sex and CSF Alzheimer's disease biomarkers. *Brain Communications*, 7(3), fcaf210. \[[DOI](https://doi.org/10.1093/braincomms/fcaf210)\]
 
 West, M.\*, **Cheng, Y.**\*, He, Y.\*, Leng, Y., Magdamo, C., Hyman, B. T., Dickson, J. R., Serrano-Pozo, A., Blacker, D., & Das, S. (2025). Unsupervised Deep Learning of Electronic Health Records to Characterize Heterogeneity Across Alzheimer Disease and Related Dementias: Cross-Sectional Study. *JMIR Aging*, 8(1). \[[DOI](https://doi.org/10.2196/65178)\] \[[PDF](https://lilianyou.github.io/files/2025_West_Cheng_He_JMIR_Aging.pdf)\]
 
