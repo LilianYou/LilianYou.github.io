@@ -5,13 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=LnggShgAAAAJ&hl=en).
+You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=LnggShgAAAAJ&hl=en). (* indicates equal contribution)
 
 ---
 
 ## Preprints
 
-Haage, A., **Cheng, Y.**, Smith, C., Kozik, A. J., Hagan, A., & Jadavji, N. M. (2026). When are Biomedical Postdocs Ready for the Faculty Job Market? A Mixed-Methods Analysis of Metrics and Resilience Among Faculty Job Seekers. *bioRxiv*. \[[Preprint](https://doi.org/10.64898/2026.08.14.744880)\]
+Haage, A.\*, **Cheng, Y.**\*, Smith, C., Kozik, A. J., Hagan, A., & Jadavji, N. M. (2026). When are Biomedical Postdocs Ready for the Faculty Job Market? A Mixed-Methods Analysis of Metrics and Resilience Among Faculty Job Seekers. *bioRxiv*. \[[Preprint](https://doi.org/10.64898/2026.08.14.744880)\]
 
 Korponay, C., Cohen-Gilbert, J. E., Kumar, P., Harnett, N. G., Medina, A. A., **Cheng, Y.**, Forester, B. P., Ressler, K. J., Demsar, J., Frederick, B. B., Beckmann, C. F., Harper, D. G., & Nickerson, L. D. (2025). Cognition-centric brain activity across diverse imaging tasks constrains the representation of mental health in brain function data. *bioRxiv*. \[[Preprint](https://doi.org/10.1101/2025.06.11.659091)\]
 
@@ -33,11 +33,11 @@ Korponay, C., Cohen-Gilbert, J. E., **Cheng, Y.**, Kumar, P., Harnett, N. G., Me
 
 Liu, P., Zemlyanker, D., Gopinath, K., **Cheng, Y.**, He, Y., Izquierdo-Garcia, D., Gomez-Isla, T., Das, S., Nasr, S., Sheth, K. N., Rosen, M. S., Kimberly, W. T., de Havenon, A., Shen, F. X., & Iglesias, J. E. (2025). The normalizing properties of intracranial volume across race and sex. *Brain Communications*, 7(4), fcaf271. \[[DOI](https://doi.org/10.1093/braincomms/fcaf271)\]
 
-**Cheng, Y.**, Malekar, M., He, Y., Bommareddy, A., Magdamo, C., Singh, A., Westover, B., Mukerji, S. S., Dickson, J., & Das, S. (2025). High-Throughput Phenotyping of the Symptoms of Alzheimer Disease and Related Dementias Using Large Language Models: Cross-Sectional Study. *JMIR AI*, 4(1). \[[DOI](https://doi.org/10.2196/66926)\]
+**Cheng, Y.**\*, Malekar, M.\*, He, Y.\*, Bommareddy, A., Magdamo, C., Singh, A., Westover, B., Mukerji, S. S., Dickson, J., & Das, S. (2025). High-Throughput Phenotyping of the Symptoms of Alzheimer Disease and Related Dementias Using Large Language Models: Cross-Sectional Study. *JMIR AI*, 4(1). \[[DOI](https://doi.org/10.2196/66926)\]
 
 **Cheng, Y.**, He, Y., Gopinath, K., Billot, B., Iglesias, J. E., Wu, C.-Y., Dodge, H., Wills, A.-M., Carlyle, B., Kivisäkk, P., Hyman, B. T., Arnold, S. E., & Das, S. (2025). Brain MRI signatures across sex and CSF Alzheimer's disease biomarkers. *Brain Communications*, 7(3), fcaf210. \[[DOI](https://doi.org/10.1093/braincomms/fcaf210)\]
 
-West, M., **Cheng, Y.**, He, Y., Leng, Y., Magdamo, C., Hyman, B. T., Dickson, J. R., Serrano-Pozo, A., Blacker, D., & Das, S. (2025). Unsupervised Deep Learning of Electronic Health Records to Characterize Heterogeneity Across Alzheimer Disease and Related Dementias: Cross-Sectional Study. *JMIR Aging*, 8(1). \[[DOI](https://doi.org/10.2196/65178)\] \[[PDF](https://lilianyou.github.io/files/2025_West_Cheng_He_JMIR_Aging.pdf)\]
+West, M.\*, **Cheng, Y.**\*, He, Y.\*, Leng, Y., Magdamo, C., Hyman, B. T., Dickson, J. R., Serrano-Pozo, A., Blacker, D., & Das, S. (2025). Unsupervised Deep Learning of Electronic Health Records to Characterize Heterogeneity Across Alzheimer Disease and Related Dementias: Cross-Sectional Study. *JMIR Aging*, 8(1). \[[DOI](https://doi.org/10.2196/65178)\] \[[PDF](https://lilianyou.github.io/files/2025_West_Cheng_He_JMIR_Aging.pdf)\]
 
 Gopinath, K., Hoopes, A., Alexander, D. C., Arnold, S. E., Balbastre, Y., Billot, B., Casamitjana, A., **Cheng, Y.**, et al. (2024). Synthetic data in generalizable, learning-based neuroimaging. *Imaging Neuroscience*, 2, 1–22. \[[DOI](https://doi.org/10.1162/imag_a_00337)\]
 
@@ -47,7 +47,7 @@ Gopinath, K., Hoopes, A., Alexander, D. C., Arnold, S. E., Balbastre, Y., Billot
 
 Billot, B., Magdamo, C., **Cheng, Y.**, Arnold, S. E., Das, S., & Iglesias, J. E. (2023). Robust machine learning segmentation for large-scale analysis of heterogeneous clinical brain MRI datasets. *Proceedings of the National Academy of Sciences*, 120(9), e2216399120. \[[DOI](https://doi.org/10.1073/pnas.2216399120)\] \[[PDF](https://lilianyou.github.io/files/2023_SynthSeg_PNAS_Billot.pdf)\]
 
-**Cheng, Y.**, He, C., Hegarty, M., & Chrastil, E. R. (2022). Who believes they are good navigators? A machine learning pipeline highlights the impact of gender, commuting time, and education. *Machine Learning with Applications*, 10, 100419. \[[PDF](https://lilianyou.github.io/files/2022_self_report_MLWA_Cheng.pdf)\] \[[DOI](https://doi.org/10.1016/j.mlwa.2022.100419)\]
+**Cheng, Y.**\*, He, C.\*, Hegarty, M., & Chrastil, E. R. (2022). Who believes they are good navigators? A machine learning pipeline highlights the impact of gender, commuting time, and education. *Machine Learning with Applications*, 10, 100419. \[[PDF](https://lilianyou.github.io/files/2022_self_report_MLWA_Cheng.pdf)\] \[[DOI](https://doi.org/10.1016/j.mlwa.2022.100419)\]
 
 **Cheng, Y.**, Hegarty, M., & Chrastil, E. R. (2020). Telling right from right: the influence of handedness in the mental rotation of hands. *Cognitive Research: Principles and Implications*, 5, 1–18. \[[PDF](https://lilianyou.github.io/files/2020-Cheng.pdf)\] \[[DOI](https://doi.org/10.1186/s41235-020-00230-9)\]
 
