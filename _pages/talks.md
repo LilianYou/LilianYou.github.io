@@ -14,7 +14,7 @@ Upcoming Talks
 
 * Mapping Brain Ageing with Multimodal Imaging. *[Dementia Researcher Research Showcase](https://www.dementiaresearcher.nihr.ac.uk/event/research-showcase-mapping-brain-ageing-with-multimodal-imaging/), online / livestream, Oct. 14, 2026, 7:00 AM EDT.*
 
-* Invited seminar (Title TBD). *SIUC PHSL Seminar, SIU School of Medicine, Carbondale, IL, April 30, 2027.*
+* Machine Learning in Alzheimer's Disease and Aging. *Southern Illinois University School of Medicine, PHSL Seminar, Carbondale, IL, April 30, 2027.*
 
 
 Invited Talks

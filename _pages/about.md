@@ -22,6 +22,6 @@ I also mentor Harvard-affiliated students on computational research projects wit
 ## Upcoming Talks
 
 * **Oct 14, 2026** · [Dementia Researcher Research Showcase](https://www.dementiaresearcher.nihr.ac.uk/event/research-showcase-mapping-brain-ageing-with-multimodal-imaging/) — Mapping Brain Ageing with Multimodal Imaging *(Online, 7:00 AM EDT)*
-* **Apr 30, 2027** · SIU School of Medicine — PHSL Seminar *(Carbondale, IL / In person)*
+* **Apr 30, 2027** · Southern Illinois University School of Medicine, PHSL Seminar — Machine Learning in Alzheimer's Disease and Aging *(Carbondale, IL / In person)*
 
 [More talks & presentations →](/talks/)
