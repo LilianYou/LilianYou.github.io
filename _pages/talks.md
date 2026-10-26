@@ -12,6 +12,8 @@ author_profile: true
 Upcoming Talks
 ======
 
+* Interpretable multimodal AI for brain aging, Alzheimer's disease and neuropsychiatric symptoms. *BRIDGE-BHA Workshop (Brain Health & Aging), Data & Expertise Blitz, McLean Hospital, Belmont, MA, Oct. 30, 2026.*
+
 * Machine Learning in Alzheimer's Disease and Aging. *Southern Illinois University School of Medicine, PHSL Seminar, Carbondale, IL, April 30, 2027.*
 
 

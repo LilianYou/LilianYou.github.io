@@ -21,6 +21,8 @@ I also mentor Harvard-affiliated students on computational research projects wit
 
 ## Upcoming Talks
 
+* **Oct 30, 2026** · BRIDGE-BHA Workshop (Brain Health & Aging), Data & Expertise Blitz — Interpretable multimodal AI for brain aging, Alzheimer's disease and neuropsychiatric symptoms *(Belmont, MA / In person)*
+
 * **Apr 30, 2027** · Southern Illinois University School of Medicine, PHSL Seminar — Machine Learning in Alzheimer's Disease and Aging *(Carbondale, IL / In person)*
 
 [More talks & presentations →](/talks/)
