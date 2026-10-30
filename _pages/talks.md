@@ -18,8 +18,6 @@ Upcoming Talks
 Invited Talks
 ======
 
-* Interpretable multimodal AI for brain aging, Alzheimer's disease and neuropsychiatric symptoms. *BRIDGE-BHA Workshop (Brain Health & Aging), Data & Expertise Blitz, McLean Hospital, Belmont, MA, Oct. 2026.*
-
 * Mapping Brain Ageing with Multimodal Imaging. *[Dementia Researcher Research Showcase](https://www.dementiaresearcher.nihr.ac.uk/event/research-showcase-mapping-brain-ageing-with-multimodal-imaging/), online / livestream, Oct. 2026.*
 
 * Finding my path in neuroscience: from human behavior to brain data. *[Harvard Brain Science Initiative (HBI) Journeys in Neuro](https://brain.harvard.edu/hbi_events/journeys-in-neuro-jul-26/), Boston, July 2026.*
@@ -41,6 +39,8 @@ Invited Talks
 
 Oral Presentations
 ======
+
+* Interpretable multimodal AI for brain aging, Alzheimer's disease and neuropsychiatric symptoms. *BRIDGE-BHA Workshop (Brain Health & Aging), Data & Expertise Blitz, McLean Hospital, Belmont, MA, Oct. 2026.*
 
 * Multimodal Latent Neuroimaging Phenotyping Identifies Cognitive Aging Subtypes and Their Neurotransmitter Architecture. *Harvard Psychiatry Research Day, Boston, March 2026.* <b>Neal Alan Mysell Award.</b>
 
